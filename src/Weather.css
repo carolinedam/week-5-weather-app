@@ -4,7 +4,6 @@
   font-family: arial, sans-serif;
   color: #878787;
   padding: 16px;
-  margin: 30px auto;
 }
 
 .Weather h1 {
@@ -31,19 +30,18 @@
   font-size: 64px;
   color: black;
   line-height: 64px;
+  margin: 5px auto;
 }
 
 .Weather canvas {
-  display: inline-block;
-  margin-right: 5px;
-  margin-top: 5px;
+  margin: 5px auto;
 }
 
 .Weather .unit {
   font-size: 16px;
   font-weight: 400;
   position: relative;
-  top: -32px;
+  top: -34px;
   margin-left: 5px;
   line-height: 1;
 }
