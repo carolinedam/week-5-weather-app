@@ -11,8 +11,8 @@ export default function App() {
           <a
             href="https://github.com/carolinedam/week-5-weather-app"
             target="_blank"
+            rel="noopener noreferrer"
           >
-            {" "}
             open-sourced on Github
           </a>
         </footer>
